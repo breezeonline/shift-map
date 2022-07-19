@@ -5,8 +5,8 @@
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/breezeonline/cl5smxa56000714mvxzdow2uw',
-        center: [-77.04, 38.907],
-        zoom: 11.15
+        center: -111.140, 51.383],
+        zoom: 6.04
     });
 
     map.on('load', () => {
