@@ -506,3 +506,9 @@
             map.getCanvas().style.cursor = '';
         });
     });
+
+// Add zoom and rotation controls to the map.
+map.addControl(new mapboxgl.NavigationControl());
+
+// disable map zoom when using scroll
+map.scrollZoom.disable();
