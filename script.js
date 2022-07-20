@@ -1,6 +1,3 @@
-// TO MAKE THE MAP APPEAR YOU MUST
-	// ADD YOUR ACCESS TOKEN FROM
-	// https://account.mapbox.com
 	mapboxgl.accessToken = 'pk.eyJ1IjoiYnJlZXplb25saW5lIiwiYSI6ImNsNXNyajFtczA1Y2IzYnFxajNpdjJ5ZjAifQ.g__i-gyZ7tRzTik2NRGt8Q';
     const map = new mapboxgl.Map({
         container: 'map',
@@ -11,9 +8,6 @@
 
     map.on('load', () => {
         map.addSource('places', {
-            // This GeoJSON contains features that include an "icon"
-            // property. The value of the "icon" property corresponds
-            // to an image in the Mapbox Streets style's sprite.
             'type': 'geojson',
             'data': {
                 'type': 'FeatureCollection',
