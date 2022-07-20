@@ -107,7 +107,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06c4b10a21d8aa94674_Gershaw_Fixed_01-2.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Gershaw Terrace</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/gershaw-terrace" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -191,7 +191,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06d80c909e7b1c66485_Pincher.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Pincher Station Land</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/pincher-station-land" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -203,7 +203,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06d3667e46fff9ece00_Site-Option-2-v5.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Williams</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/williams" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -239,7 +239,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06de7b1c32762626c5e_Wellhouse_Header_ShiftREI.jpeg" class="bz-cover-image"><h3 class="bz-card-title">539 41st S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/office-and-retail-539-41-st-s" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -251,7 +251,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06e0f672254c06c754e_4077-2nd-ave-south-image-3.jpeg" class="bz-cover-image"><h3 class="bz-card-title">4077 2 Ave S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/4077-2-ave-s" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -263,7 +263,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06ee7b1c39b6b626c61_498-41-ST-S.jpeg" class="bz-cover-image"><h3 class="bz-card-title">498 41 St S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/498-41-st-s" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -275,7 +275,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06eae5d275fe268c4f9_20201012-0E3A8205.jpeg" class="bz-cover-image"><h3 class="bz-card-title">3321 1 Ave S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/3321-1-ave-s" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -323,7 +323,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06f8a2ed97d7043a811_20210714-DJI_0743.jpeg" class="bz-cover-image"><h3 class="bz-card-title">367-25 St, Fort Macleod</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/367-25-st-fort-macleod" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -335,7 +335,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06fd4973106f28d692e_Shift_Coaldale_Header.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Coaldale Civic Square</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/coaldale-civic-square-property" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
@@ -359,7 +359,7 @@
                         'properties': {
                             'description':
                                 '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d070fe4bdb6550133510_20220418-Outside-2-shift.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Unit #30, 420 34 Street S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/unit-30-420-34-street-s" class="button w-button">View Property</a></div></div>',
-                            'icon': 'bz-map-pin-32'
+                            'icon': 'bz-map-pin-red'
                         },
                         'geometry': {
                             'type': 'Point',
