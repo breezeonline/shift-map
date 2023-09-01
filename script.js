@@ -481,6 +481,30 @@ map.on("load", () => {
             coordinates: [-112.60762, 49.73568],
           },
         },
+        {
+          type: "Feature",
+          properties: {
+            description:
+              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/641b36c975311e2fa95c735c_Gilmar%20Crane%20Brick%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">3216-3 Ave, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3216-3-ave-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+            icon: "bz-map-pin-32",
+          },
+          geometry: {
+            type: "Point",
+            coordinates: [-112.79257, 49.69553],
+          },
+        },
+        {
+          type: "Feature",
+          properties: {
+            description:
+              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/641b38846d10224e38a8a938_Gilmar%20Crane%20Blue%20web-p-800.jpg" class="bz-cover-image"><h3 class="bz-card-title">3208-3 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3208-3-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+            icon: "bz-map-pin-32",
+          },
+          geometry: {
+            type: "Point",
+            coordinates: [-112.793091, 49.695679],
+          },
+        },
       ],
     },
   });
