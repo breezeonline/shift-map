@@ -466,7 +466,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.79336, 49.69858],
+            coordinates: [49.69858, -112.79336],
           },
         },
         {
@@ -478,7 +478,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.60762, 49.73568],
+            coordinates: [49.73568, -112.60762],
           },
         },
       ],
