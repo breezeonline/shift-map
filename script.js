@@ -366,7 +366,7 @@ map.on("load", () => {
           properties: {
             description:
               '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d070173c0b0e5f104345_20220516-03-SITE.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Crowsnest Crossing</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/crowsnest-crossing" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-32",
+            icon: "bz-map-pin-red",
           },
           geometry: {
             type: "Point",
@@ -462,7 +462,7 @@ map.on("load", () => {
           properties: {
             description:
               '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/64efa95608be72f54e4c223a_HA%20Brochure%20Cover%20compressed-p-800.jpg" class="bz-cover-image"><h3 class="bz-card-title">3139-1 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/3139-1-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-32",
+            icon: "bz-map-pin-red",
           },
           geometry: {
             type: "Point",
@@ -486,7 +486,7 @@ map.on("load", () => {
           properties: {
             description:
               '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/641b36c975311e2fa95c735c_Gilmar%20Crane%20Brick%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">3216-3 Ave, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3216-3-ave-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-32",
+            icon: "bz-map-pin-red",
           },
           geometry: {
             type: "Point",
@@ -498,11 +498,23 @@ map.on("load", () => {
           properties: {
             description:
               '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/641b38846d10224e38a8a938_Gilmar%20Crane%20Blue%20web-p-800.jpg" class="bz-cover-image"><h3 class="bz-card-title">3208-3 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3208-3-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-32",
+            icon: "bz-map-pin-red",
           },
           geometry: {
             type: "Point",
             coordinates: [-112.793091, 49.695679],
+          },
+        },
+        {
+          type: "Feature",
+          properties: {
+            description:
+              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/6369677e3f147272f1907280_CE%20Pincher%20Creek%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">Chinook Equipment Pincher Creek</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/chinook-equipment-pincher-creek" class="bz-button-map w-button">View Property</a></div></div>',
+            icon: "bz-map-pin-32",
+          },
+          geometry: {
+            type: "Point",
+            coordinates: [-113.926637, 49.49217],
           },
         },
       ],
