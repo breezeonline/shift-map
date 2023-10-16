@@ -214,7 +214,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.8114548, 49.6960769],
+            coordinates: [-112.809249, 49.692409],
           },
         },
         {
@@ -250,7 +250,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.8261515, 49.6974227],
+            coordinates: [-112.781859, 49.697557],
           },
         },
         {
@@ -274,7 +274,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.7787326, 49.6981004],
+            coordinates: [-112.791346, 49.698488],
           },
         },
         {
@@ -490,7 +490,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.79257, 49.69553],
+            coordinates: [-112.79263, 49.49580],
           },
         },
         {
@@ -502,7 +502,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.793091, 49.695679],
+            coordinates: [-112.793129, 49.695975],
           },
         },
         {
