@@ -437,18 +437,6 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d07133c8e11bfadfa9ed_20210530-Evcon-Web.jpeg" class="bz-cover-image"><h3 class="bz-card-title">610-30 St N, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/610-30-st-n-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-32",
-          },
-          geometry: {
-            type: "Point",
-            coordinates: [-112.79756595658493, 49.708632626389026],
-          },
-        },
-        {
-          type: "Feature",
-          properties: {
-            description:
               '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d071ea1244cc70eff32e_7th-st-3-1.jpeg" class="bz-cover-image"><h3 class="bz-card-title">311-7 St S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/311-7-st-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
