@@ -22,7 +22,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-113.978904, 50.719129],
+            coordinates: [-113.98023631724175, 50.71894513620127],
           },
         },
         {
@@ -34,7 +34,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.787546, 49.697226],
+            coordinates: [-112.78582552023688, 49.6972278075271],
           },
         },
         {
@@ -46,7 +46,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.792072, 49.698679],
+            coordinates: [-112.7907954407226, 49.69882345779516],
           },
         },
         {
@@ -58,7 +58,7 @@ map.on("load", () => {
           },
           geometry: {
             type: "Point",
-            coordinates: [-112.785002, 49.692564],
+            coordinates: [-112.78386115451814, 49.692345943255525],
           },
         },
         {
