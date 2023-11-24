@@ -125,7 +125,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06c4b10a22db3a94675_DJI_0498.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Chinook Equipment</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/cem-heavy-equipment" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/63321cb99868279a05cd7159_drone%20overhead%202022.JPG" class="bz-cover-image"><h3 class="bz-card-title">Chinook Equipment</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/cem-heavy-equipment" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
           geometry: {
@@ -197,7 +197,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06d3667e46fff9ece00_Site-Option-2-v5.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Williams</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/williams" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/655fa1cd1ee86419d255f81b_williams%20reduced%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">Williams</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/williams" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -257,7 +257,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06ee7b1c39b6b626c61_498-41-ST-S.jpeg" class="bz-cover-image"><h3 class="bz-card-title">498 41 St S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/498-41-st-s" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/6553b0f6836f472b6ddb859d_498-41%20S%20Render%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">498 41 St S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/498-41-st-s" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -329,7 +329,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06fd4973106f28d692e_Shift_Coaldale_Header.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Coaldale Civic Square</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/coaldale-civic-square-property" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/6467b4385a0c874a1f3f86fb_8Y1A6246%20squooshed.jpg" class="bz-cover-image"><h3 class="bz-card-title">Coaldale Civic Square</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/coaldale-civic-square-property" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -365,7 +365,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d070173c0b0e5f104345_20220516-03-SITE.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Crowsnest Crossing</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/crowsnest-crossing" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/6553b26bd9c98518b4237660_rendering%201.JPG" class="bz-cover-image"><h3 class="bz-card-title">Crowsnest Crossing</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/crowsnest-crossing" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -413,7 +413,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d071189a03563c8e927b_Davis-Render-05-13-2022.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Davis Dodge Fort Macleod</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/davis-dodge-fort-macleod" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/6369657461ecb6a3d467f084_DD%20resized.jpg" class="bz-cover-image"><h3 class="bz-card-title">Davis Dodge Fort Macleod</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/davis-dodge-fort-macleod" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
           geometry: {
@@ -437,7 +437,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d071ea1244cc70eff32e_7th-st-3-1.jpeg" class="bz-cover-image"><h3 class="bz-card-title">311-7 St S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/311-7-st-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/63321c988e83efbdfd17694b_7th%20street%20web.JPG" class="bz-cover-image"><h3 class="bz-card-title">311-7 St S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/311-7-st-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
           geometry: {
@@ -449,7 +449,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/64efa95608be72f54e4c223a_HA%20Brochure%20Cover%20compressed-p-800.jpg" class="bz-cover-image"><h3 class="bz-card-title">3139-1 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/3139-1-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/64efa95608be72f54e4c223a_HA%20Brochure%20Cover%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">3139-1 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/3139-1-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -461,7 +461,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/648205b93fe9db42eb1584da_5%20web-p-800.jpg" class="bz-cover-image"><h3 class="bz-card-title">1319-11 St, Coaldale</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/1319-11-st-coaldale" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/648205b93fe9db42eb1584da_5%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">1319-11 St, Coaldale</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/1319-11-st-coaldale" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
           geometry: {
@@ -473,7 +473,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/641b36c975311e2fa95c735c_Gilmar%20Crane%20Brick%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">3216-3 Ave, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3216-3-ave-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/641b36c975311e2fa95c735c_Gilmar%20Crane%20Brick%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">3216-3 Ave, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3216-3-ave-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -485,7 +485,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/641b38846d10224e38a8a938_Gilmar%20Crane%20Blue%20web-p-800.jpg" class="bz-cover-image"><h3 class="bz-card-title">3208-3 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3208-3-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/641b38846d10224e38a8a938_Gilmar%20Crane%20Blue%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">3208-3 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3208-3-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -497,12 +497,24 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://assets.website-files.com/62d5cf8ef87df10b6a9b50d0/6369677e3f147272f1907280_CE%20Pincher%20Creek%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">Chinook Equipment Pincher Creek</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/chinook-equipment-pincher-creek" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/6369677e3f147272f1907280_CE%20Pincher%20Creek%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">Chinook Equipment Pincher Creek</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/chinook-equipment-pincher-creek" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
           geometry: {
             type: "Point",
             coordinates: [-113.926637, 49.49217],
+          }
+        },
+        {
+          type: "Feature",
+          properties: {
+            description:
+              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/652fe0fbca6c85b0bfd07ce5_Bridge%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">Bridge City and National Car Rental</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/bridge-city-and-national-car-rental" class="bz-button-map w-button">View Property</a></div></div>',
+            icon: "bz-map-pin-32",
+          },
+          geometry: {
+            type: "Point",
+            coordinates: [-112.793098, 49.69770],
           }
         }
       ],
