@@ -341,18 +341,6 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d070fe4bdb6550133510_20220418-Outside-2-shift.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Unit #30, 420 34 Street S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/unit-30-420-34-street-s" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-red",
-          },
-          geometry: {
-            type: "Point",
-            coordinates: [-112.79115738997348,49.69448857759021],
-          },
-        },
-        {
-          type: "Feature",
-          properties: {
-            description:
               '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/6553b26bd9c98518b4237660_rendering%201.JPG" class="bz-cover-image"><h3 class="bz-card-title">Crowsnest Crossing</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/crowsnest-crossing" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
@@ -498,7 +486,7 @@ map.on("load", () => {
           properties: {
             description:
               '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/657a06b9b820688b8793036e_Front%201condensed.jpg" class="bz-cover-image"><h3 class="bz-card-title">561-41 St N</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/561-41-st-n" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-32",
+            icon: "bz-map-pin-red",
           },
           geometry: {
             type: "Point",
