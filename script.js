@@ -270,7 +270,7 @@ map.on("load", () => {
           properties: {
             description:
               '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/6669221528d4fbdeed0a66e6_Sunbelt.png" class="bz-cover-image"><h3 class="bz-card-title">3321 1 Ave S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/3321-1-ave-s" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-red",
+            icon: "bz-map-pin-32",
           },
           geometry: {
             type: "Point",
@@ -438,7 +438,7 @@ map.on("load", () => {
           properties: {
             description:
               '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/6667982b43dacf6490fa9ded_2024%20June%20-%20Structural%20Truss%20compressed-p-1080.jpg" class="bz-cover-image"><h3 class="bz-card-title">3139-1 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/3139-1-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-red",
+            icon: "bz-map-pin-32",
           },
           geometry: {
             type: "Point",
