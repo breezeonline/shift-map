@@ -53,7 +53,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06b16f07811c692da7d_DAG_D8-1.jpeg" class="bz-cover-image"><h3 class="bz-card-title">Davis Auto Group</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/davis-auto-group" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62cf34045bf9f25fb6bc593d/679bc2361d771ce490ca8819_2024%20Nov%20-%20DAG%20Exterior%201.jpg" class="bz-cover-image"><h3 class="bz-card-title">Davis Auto Group</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/davis-auto-group" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
           geometry: {
@@ -149,7 +149,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06c5e9cd4656522058f_1-3.jpeg" class="bz-cover-image"><h3 class="bz-card-title">420 34 St S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/420-34-st-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/62d5d06c5e9cd4656522058f_1-3-p-1080.jpeg" class="bz-cover-image"><h3 class="bz-card-title">420 34 St S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/420-34-st-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-32",
           },
           geometry: {
@@ -257,7 +257,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/6553b0f6836f472b6ddb859d_498-41%20S%20Render%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">498 41 St S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/498-41-st-s" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/66aa69f30ea27b2d489083d1__0004_498-Perspective.png" class="bz-cover-image"><h3 class="bz-card-title">498 41 St S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/498-41-st-s" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -269,7 +269,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06eae5d275fe268c4f9_20201012-0E3A8205.jpeg" class="bz-cover-image"><h3 class="bz-card-title">3321 1 Ave S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/3321-1-ave-s" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/6669221528d4fbdeed0a66e6_Sunbelt.png" class="bz-cover-image"><h3 class="bz-card-title">3321 1 Ave S</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/3321-1-ave-s" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -311,18 +311,6 @@ map.on("load", () => {
           geometry: {
             type: "Point",
             coordinates: [-113.8446206271316,54.1514998455373],
-          },
-        },
-        {
-          type: "Feature",
-          properties: {
-            description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/62d5d06f8a2ed97d7043a811_20210714-DJI_0743.jpeg" class="bz-cover-image"><h3 class="bz-card-title">367-25 St, Fort Macleod</h3><div class="bz-button-wrapper"><a href="https://shiftrei.ca/properties/367-25-st-fort-macleod" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-red",
-          },
-          geometry: {
-            type: "Point",
-            coordinates: [-113.4033097496163,49.72643628903188],
           },
         },
         {
@@ -449,7 +437,7 @@ map.on("load", () => {
           type: "Feature",
           properties: {
             description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/64efa95608be72f54e4c223a_HA%20Brochure%20Cover%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">3139-1 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/3139-1-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
+              '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/6667982b43dacf6490fa9ded_2024%20June%20-%20Structural%20Truss%20compressed-p-1080.jpg" class="bz-cover-image"><h3 class="bz-card-title">3139-1 Ave S, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/3139-1-ave-s-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
             icon: "bz-map-pin-red",
           },
           geometry: {
@@ -467,18 +455,6 @@ map.on("load", () => {
           geometry: {
             type: "Point",
             coordinates: [-112.6074642282638, 49.735714842709136],
-          },
-        },
-        {
-          type: "Feature",
-          properties: {
-            description:
-              '<div class="bz-property-card-wrapper"><img src="https://uploads-ssl.webflow.com/62d5cf8ef87df10b6a9b50d0/641b36c975311e2fa95c735c_Gilmar%20Crane%20Brick%20web.jpg" class="bz-cover-image"><h3 class="bz-card-title">3216-3 Ave, Lethbridge</h3><div class="bz-button-wrapper"><a href="https://shift-rei.ca/properties/3216-3-ave-lethbridge" class="bz-button-map w-button">View Property</a></div></div>',
-            icon: "bz-map-pin-red",
-          },
-          geometry: {
-            type: "Point",
-            coordinates: [-112.79264264526637, 49.69581246129721],
           },
         },
         {
@@ -515,6 +491,30 @@ map.on("load", () => {
           geometry: {
             type: "Point",
             coordinates: [-112.793098, 49.69770],
+          }
+        },
+        {
+          type: "Feature",
+          properties: {
+            description:
+              '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/657a06b9b820688b8793036e_Front%201condensed.jpg" class="bz-cover-image"><h3 class="bz-card-title">561-41 St N</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/561-41-st-n" class="bz-button-map w-button">View Property</a></div></div>',
+            icon: "bz-map-pin-32",
+          },
+          geometry: {
+            type: "Point",
+            coordinates: [-112.78115508045359, 49.70753059697341],
+          }
+        },
+        {
+          type: "Feature",
+          properties: {
+            description:
+              '<div class="bz-property-card-wrapper"><img src="https://cdn.prod.website-files.com/62d5cf8ef87df10b6a9b50d0/66685f79860d821858790ae4_UAC%20compressed.jpg" class="bz-cover-image"><h3 class="bz-card-title">Ultimate Auto Care</h3><div class="bz-button-wrapper"><a href="https://www.shiftrei.ca/properties/ultimate-auto-care" class="bz-button-map w-button">View Property</a></div></div>',
+            icon: "bz-map-pin-32",
+          },
+          geometry: {
+            type: "Point",
+            coordinates: [-112.7899015866183, 49.69484559782905],
           }
         }
       ],
